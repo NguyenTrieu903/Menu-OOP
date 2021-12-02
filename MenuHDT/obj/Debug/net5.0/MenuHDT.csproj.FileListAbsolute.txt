@@ -1,0 +1,16 @@
+C:\Users\MyPC\Desktop\MenuHDT\bin\Debug\net5.0\MenuHDT.exe
+C:\Users\MyPC\Desktop\MenuHDT\bin\Debug\net5.0\MenuHDT.deps.json
+C:\Users\MyPC\Desktop\MenuHDT\bin\Debug\net5.0\MenuHDT.runtimeconfig.json
+C:\Users\MyPC\Desktop\MenuHDT\bin\Debug\net5.0\MenuHDT.runtimeconfig.dev.json
+C:\Users\MyPC\Desktop\MenuHDT\bin\Debug\net5.0\MenuHDT.dll
+C:\Users\MyPC\Desktop\MenuHDT\bin\Debug\net5.0\ref\MenuHDT.dll
+C:\Users\MyPC\Desktop\MenuHDT\bin\Debug\net5.0\MenuHDT.pdb
+C:\Users\MyPC\Desktop\MenuHDT\obj\Debug\net5.0\MenuHDT.csproj.AssemblyReference.cache
+C:\Users\MyPC\Desktop\MenuHDT\obj\Debug\net5.0\MenuHDT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC\Desktop\MenuHDT\obj\Debug\net5.0\MenuHDT.AssemblyInfoInputs.cache
+C:\Users\MyPC\Desktop\MenuHDT\obj\Debug\net5.0\MenuHDT.AssemblyInfo.cs
+C:\Users\MyPC\Desktop\MenuHDT\obj\Debug\net5.0\MenuHDT.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\MenuHDT\obj\Debug\net5.0\MenuHDT.dll
+C:\Users\MyPC\Desktop\MenuHDT\obj\Debug\net5.0\ref\MenuHDT.dll
+C:\Users\MyPC\Desktop\MenuHDT\obj\Debug\net5.0\MenuHDT.pdb
+C:\Users\MyPC\Desktop\MenuHDT\obj\Debug\net5.0\MenuHDT.genruntimeconfig.cache
