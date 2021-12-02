@@ -100,7 +100,7 @@ namespace MenuHDT
             Console.WriteLine("\t\t\t\t\t*    |                                                                    |  *");
             Console.WriteLine("\t\t\t\t\t*    |              1. Tim kiem hang het han                              |  *");
             Console.WriteLine("\t\t\t\t\t*    |              2. Kiem tra hang het han                              |  *");
-            Console.WriteLine("\t\t\t\t\t*    |              4. Cap nhat gia                                       |  *");
+            Console.WriteLine("\t\t\t\t\t*    |              3. Cap nhat gia                                       |  *");
             Console.WriteLine("\t\t\t\t\t*    |              0. Thoat                                              |  *");
             Console.WriteLine("\t\t\t\t\t*    |____________________________________________________________________|  *");
             Console.WriteLine("\t\t\t\t\t*                                                                            *");
@@ -139,7 +139,7 @@ namespace MenuHDT
             Console.WriteLine("\t\t\t\t\t*    |                                                                    |  *");
             Console.WriteLine("\t\t\t\t\t*    |              1. Tim kiem hang ton kho                              |  *");
             Console.WriteLine("\t\t\t\t\t*    |              2. Kiem tra hang ton kho                              |  *");
-            Console.WriteLine("\t\t\t\t\t*    |              4. Cap nhat gia                                       |  *");
+            Console.WriteLine("\t\t\t\t\t*    |              3. Cap nhat gia                                       |  *");
             Console.WriteLine("\t\t\t\t\t*    |              0. Thoat                                              |  *");
             Console.WriteLine("\t\t\t\t\t*    |____________________________________________________________________|  *");
             Console.WriteLine("\t\t\t\t\t*                                                                            *");
